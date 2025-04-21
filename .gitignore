@@ -1,0 +1,32 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django specific
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
